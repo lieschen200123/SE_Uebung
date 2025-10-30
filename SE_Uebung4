@@ -1,1 +1,72 @@
-A
+1. Aufgabe: Grundbegriffe
+		1. Funktionale Anforderungen
+				-
+			 Nichtfunktionale Anforderungen
+				-
+		2. Stakeholder(Requirements Engeneering)
+				-
+		3. Anforderungsqualität
+				- 
+2. Aufgabe: Stakeholder-Analyse
+		1. Stakeholder und mögliche Anforderungen
+				- Endnutzer: erfahren von Echtzeitdaten
+				- Marketing: bewerben des Produktes
+				- Geschäftsführung: koordinieren des Projektes
+				- Entwickler:
+		2. Einfluss
+				- Endnutzer: mittleres bis hohes Interesse und mittlerer Einfluss
+				- Geschäftsführung: hohes Interesse und hoher Einfluss
+				- Entwickler: mittleres Interesse und mittlerer Einfluss
+				- Wartungspersonal: mittleres Interesse und mittel bis niedriger Einfluss
+				- Staat/Vorschriften: niedriges Interesse und hoher Einfluss
+		3. Interessenkonflikte
+				- Wartungsteam und Entwicklerteam: Entwicklerteam 
+				- Anwender und Betrieb: Kunde möchte funktionen die vom Betrieb aus Gründen nicht umgesetzt werden können
+		4. Analyse
+				- Betrieb und Vorschriften: der Betrieb passt sich anden Vorschriften an
+		5. konkrete Methoden und Maßnahmen
+				- 
+3. Aufgabe: Gute Anforderungen formulieren
+		1. Funktional oder nicht funktional
+				- "Die App soll schnell sein" - nicht funktional
+				- "Registrierung soll einfach sein" - nicht funktional
+				- "Es soll möglich sein, Fahrräder zu reservieren" - funktional
+		2. warum schlecht formuliert
+				- die formulierung ist nicht sehr präzise
+		3. Überarbeiten
+				- Die App soll eine maximale Ladezeit von 0.5 Sekunden haben
+				- 
+				- 
+		4. Testfälle
+4.Aufgabe: Priorisieren nach RFC 2119 von Bradner
+		a) Nutzerregistrierung mit E-Mail (SHOULD/MUST)
+		b) Reservierung von Rädern (MUST)
+		c) Bezahlung per Kreditkarte (MAY)
+		d) Offline-Modus (Kartenanzeige ohne Internet) (
+		e) Push-Benachrichtigung (SHOULD)
+		f) Integration mit GPS für Diebstahlortung (SHOULD)
+		g) (MUST) um Feedback umsetzen zu können
+		h) Admin-Dashboard für Auslastungsstatistiken (SHOULD) 
+5. Aufgabe: Use-Case beschreiben und modellieren
+		1. Use-Case-Diagramm:
+					reservieren - Kunde
+					registrieren - Kunde, Admin
+					aktualisieren - Mailserver, Datenbank
+					Bestätigungsmail senden - Mailserver
+		2. Use-Case Beschreiben:
+				- 
+6. Aufgabe: Lastenheft und Pflichtenheft
+7. Aufgabe: Rückverolgbarkeit und Traceability
+		1. 
+		2. 3 Spalten einer RTM
+				- Anforderung, Beschreibung, Komponente/Anwendungsfall
+		3. Vorteile
+    4. Erstelle eine einfache RTM mit folgenden Spalten
+        Requirement ID.    Beschreibung.    Design-Dok.   Code-Modul.   Testfall-Id.    Teststatus 
+				RQ 001                   -           DD01        TaskM/Storage      TC01								-
+				RQ 002									 -					 DD02			    TaskM/TaskV				TC02
+				RQ 003									 -					 DD03		     Storage/TaskM      TC03
+				RQ 004									 -					 DD05			   TaskM/Storage			TC04
+				RQ 005									 -					 DD04			   TaskM/Storage			TC05
+		5. keine RTM Projekte (Risiken)
+		6. RQ003
