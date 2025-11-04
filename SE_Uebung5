@@ -1,0 +1,15 @@
+import java.text.SimpleDateFormat;
+import java.util.Date
+
+public class Basics(
+	public static void main(String []args){
+		//Aufgabe 1
+		byte fensterOffenAnzahl = 00000010
+		short anzahlLampen = 
+		int verbrauchHeuteWh = 
+		long gesamt verbrauchWh = 
+		float temperaturInnen =
+		double temperaturAussen =
+		char modusSymbol =
+		boolean bewegung erkannt = true;
+		String raumName=}
