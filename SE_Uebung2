@@ -1,1 +1,42 @@
-1. Aufgabe: 
+## Aufgabe 1 
+		//Beispiele für Anwendungs- und Systemsoftware
+			**Anwendungssoftware**
+				- Word
+				- Paint
+				- Indesign
+				- GoogleMaps
+			**Systemsoftware**
+				- Betriebssystem (Windows, Linux...)
+				- Treiber aller Art
+				- Software auf Embedded
+
+			**Ist eindeutig zuordbar?**
+				Nicht immer eindeutig zuordbar, weil
+					- die Grenze zwischen Anwendungs- und Systemsoftware ist teilweise fließend:
+						- Systemsoftware stellt die Basis für den Betrieb und die Verwaltung der Hardware sowie für die Ausführung anderer Programme bereit.
+						- Anwendungssoftware dient dem Benutzer direkt zur Lösung bestimmter Aufgaben (Textverarbeitung, Navigation, Kommunikation usw.)
+					- Einige Programme enthalten sowohl systemnahe als auch anwendungsorientierte Komponenten
+
+## Aufgabe 2
+		//Charakterisieren von Software
+			**Beschreiben Sie 5 Charakteristiken von Software**
+				1. Immateriell (nicht physisch)
+				2. Veränderbar
+					- Software kann nachträglich angepasst, erweitert oder verbessert werden
+				3. Verschleißt nicht, aber altert funktional
+				4. Komplex und schwer zu testen
+				5. Entwicklung ist Arbeitsintensiv, nicht material intensiv
+
+			**Beschreiben Sie 5 Charakteristiken von Hardware**
+				1. Materiell (physisch)
+				2. Verschleiß UND Alterung
+				3. Begrenzte Flexibilität
+					- Hardware kann nur in einem gewissen Rahmen umgerüstet werden
+				4. Abhängigkeit von Software
+					- Hardware ohne Software ist nicht funktional
+				5. Material- und Energieintensiv in der Herstellung
+
+			**Schlussfolgerung**
+			Charakteristiken sind größtenteils gegensätzlich
+
+## Aufgabe 3
