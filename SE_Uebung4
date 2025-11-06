@@ -62,11 +62,11 @@
 				- Anforderung, Beschreibung, Komponente/Anwendungsfall
 		3. Vorteile
     4. Erstelle eine einfache RTM mit folgenden Spalten
-        Requirement ID.    Beschreibung.    Design-Dok.   Code-Modul.   Testfall-Id.    Teststatus 
-				RQ 001                   -           DD01        TaskM/Storage      TC01								-
-				RQ 002									 -					 DD02			    TaskM/TaskV				TC02
-				RQ 003									 -					 DD03		     Storage/TaskM      TC03
-				RQ 004									 -					 DD05			   TaskM/Storage			TC04
-				RQ 005									 -					 DD04			   TaskM/Storage			TC05
+   	Requirement ID.  Beschreibung.  Design-Dok. Code-Modul. Testfall-Id.  Teststatus
+				RQ 001           -           DD01     TaskM/Storage   TC01					  -
+				RQ 002					 -					 DD02			 TaskM/TaskV		TC02						-
+				RQ 003					 -					 DD03		  Storage/TaskM   TC03						-
+				RQ 004					 -					 DD05			TaskM/Storage		TC04						-
+				RQ 005					 -					 DD04			TaskM/Storage		TC05						-
 		5. keine RTM Projekte (Risiken)
 		6. RQ003
