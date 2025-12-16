@@ -1,0 +1,43 @@
+##Aufgabe 2: Verfikation Sven. Validierung
+	Verifikation:
+				- a)
+				- c)
+				- e)
+				- f)?
+	Validierung:
+				- b)
+				- d)
+				- f)?
+				- g)
+
+##Aufgabe 3: Manuell vs. Automatiesiert Testen
+	Manuell:
+				- a)
+				- c)
+				- e)
+	Automatiesiert:
+				- b)
+				- d)
+				- f)
+
+## Aufgabe 4: Testaufbau je Ebene
+					Unit-Test:
+	  			 SUT - kleine, möglichst isolierte Einheiten (Methoden, Funktionen & Klassen)
+Abhängigkeiten - Verwendung von Mock/ Stub/ Fake
+					Ziel - Logikfehler, Randfälle, schnelle Rückmeldung
+			Beispiel -
+	Integrationstest:
+					 SUT - Schnittstellen- und Interaktionsfehler
+Abhängigkeiten - Stubs
+					Ziel - Schnittstellenfehler, Serialisierung, DB-Schema/Migrations, Konfiguration
+			Beispiel -
+				Systemtest:
+					 SUT - komplettes integriertes System
+Abhängigkeiten - Realitätsnah
+					Ziel - End-to-End Teilflüsse, Konig-/Deploymentfehler, Systemwechsel Verträge
+			Beispiel -
+	E2E (end-to-End):
+					 SUT - Geschäftsprozess
+Abhängigkeiten - 
+					Ziel - 
+			Beispiel - 
